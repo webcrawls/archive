@@ -6,8 +6,9 @@ _A record of my archive.org contributions_
 
 ## Table of Contents
 
-- [Table of Contents](/table-of-contents)
-- [Clay Animation Studio](/clay-animation-studio)
+- [Table of Contents](#table-of-contents)
+- [Clay Animation Studio](#clay-animation-studio)
+- [Disney & Monster Presents: The Higher Definition Home Theater Experience](#disney--monster-presents-the-higher-definition-home-theater-experience)
 
 ## Disney & Monster Presents: The Higher Definition Home Theater Experience
 
