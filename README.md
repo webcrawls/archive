@@ -14,6 +14,12 @@ _A record of my archive.org contributions_
 - [Disney & Monster Presents: The Higher Definition Home Theater Experience](#disney--monster-presents-the-higher-definition-home-theater-experience)
 - [Clay Animation Studio](#clay-animation-studio)
 
+## Sony Handycam Let's Enjoy Video DVD (3-282-264-11)
+
+- [archive.org/details/sony-lets-enjoy-video](https://archive.org/details/sony-lets-enjoy-video)
+- Archived on: 2024-04-19 @ 6:42PM
+- Original Author: Sony
+
 ## Fun for Boys featuring Disney - Ultimate Ride Disney Coaster
 
 - [archive.org/details/ultimate-ride-disney-coaster](https://archive.org/details/ultimate-ride-disney-coaster)
