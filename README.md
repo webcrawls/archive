@@ -9,6 +9,14 @@ _A record of my archive.org contributions_
 - [Table of Contents](/table-of-contents)
 - [Clay Animation Studio](/clay-animation-studio)
 
+## Disney & Monster Presents: The Higher Definition Home Theater Experience
+
+- [archive.org/details/higher-definition](https://archive.org/details/higher-definition)
+- Archived on: 2024-04-19 @ 1:47PM
+- Original author: Disney and Monster
+
+A mid-2000s promotional DVD for the high definition home theatre experience, by Disney and Monster. No clue where I got it.
+
 ## Clay Animation Studio
 
 - [archive.org/details/clay-animation-studio](https://archive.org/details/clay-animation-studio)
