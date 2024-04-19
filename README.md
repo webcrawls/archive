@@ -9,6 +9,13 @@ _A record of my archive.org contributions_
 - [Table of Contents](#table-of-contents)
 - [Clay Animation Studio](#clay-animation-studio)
 - [Disney & Monster Presents: The Higher Definition Home Theater Experience](#disney--monster-presents-the-higher-definition-home-theater-experience)
+- [Marvel & Activision: Spider-Man & Friends Superhero Adventure](#marvel--activision-spider-man--friends-superhero-adventure)
+
+## Marvel & Activision: Spider-Man & Friends Superhero Adventure
+
+- [archive.org/details/spider-man-and-friends-superhero-adventure](https://archive.org/details/spider-man-and-friends-superhero-adventure)
+- Archived on: 2024-04-19 @ 5:28PM
+- Original Author: Marvel, Activision
 
 ## Disney & Monster Presents: The Higher Definition Home Theater Experience
 
