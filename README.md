@@ -7,9 +7,30 @@ _A record of my archive.org contributions_
 ## Table of Contents
 
 - [Table of Contents](#table-of-contents)
-- [Clay Animation Studio](#clay-animation-studio)
-- [Disney & Monster Presents: The Higher Definition Home Theater Experience](#disney--monster-presents-the-higher-definition-home-theater-experience)
+- [Fun for Boys featuring Disney - Ultimate Ride Disney Coaster](#fun-for-boys-featuring-disney---ultimate-ride-disney-coaster)
+- [Fun for Boys featuring Disney - Disney's Dinosaur Action Game](#fun-for-boys-featuring-disney---disneys-dinosaur-action-game)
+- [Fun for Boys featuring Disney - Disney's Extremely Goofy Skateboarding](#fun-for-boys-featuring-disney---disneys-extremely-goofy-skateboarding)
 - [Marvel & Activision: Spider-Man & Friends Superhero Adventure](#marvel--activision-spider-man--friends-superhero-adventure)
+- [Disney & Monster Presents: The Higher Definition Home Theater Experience](#disney--monster-presents-the-higher-definition-home-theater-experience)
+- [Clay Animation Studio](#clay-animation-studio)
+
+## Fun for Boys featuring Disney - Ultimate Ride Disney Coaster
+
+- [archive.org/details/ultimate-ride-disney-coaster](https://archive.org/details/ultimate-ride-disney-coaster)
+- Archived on: 2024-04-19 @ 6:05PM
+- Original Author: Disney Interactive
+
+## Fun for Boys featuring Disney - Disney's Dinosaur Action Game
+
+- [archive.org/details/disneys-dinosaur-action-game](https://archive.org/details/disneys-dinosaur-action-game)
+- Archived on: 2024-04-19 @ 6:02PM
+- Original Author: Disney Interactive
+
+## Fun for Boys featuring Disney - Disney's Extremely Goofy Skateboarding
+
+- [archive.org/details/disneys-extremely-goofy-skateboarding](https://archive.org/details/disneys-extremely-goofy-skateboarding)
+- Archived on: 2024-04-19 @ 6:00PM
+- Original Author: Disney Interactive
 
 ## Marvel & Activision: Spider-Man & Friends Superhero Adventure
 
