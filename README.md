@@ -16,6 +16,13 @@ _A record of my archive.org contributions_
   - [Clay Animation Studio](#clay-animation-studio)
 - [Notes](#notes)
 
+### Ubisoft Ride! Carnival Tycoon (Cheese Heads Promotional PC-ROM) 
+
+- [archive.org/details/mon-disque_202404](https://archive.org/details/mon-disque_202404)
+- Date added: 2024-04-20 12:18 AM
+- Date published: 2007-07-24
+- Original Author: Ubisoft, THQ
+
 ### Sony Handycam Let's Enjoy Video DVD (3-282-264-11)
 
 - [archive.org/details/sony-lets-enjoy-video](https://archive.org/details/sony-lets-enjoy-video)
