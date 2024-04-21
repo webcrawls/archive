@@ -7,6 +7,7 @@ _A record of my archive.org contributions_
 ## Table of Contents
 
 - [Table of Contents](#table-of-contents)
+  - [Ubisoft Ride! Carnival Tycoon (Cheese Heads Promotional PC-ROM)](#ubisoft-ride-carnival-tycoon-cheese-heads-promotional-pc-rom)
   - [Sony Handycam Let's Enjoy Video DVD (3-282-264-11)](#sony-handycam-lets-enjoy-video-dvd-3-282-264-11)
   - [Fun for Boys featuring Disney - Ultimate Ride Disney Coaster](#fun-for-boys-featuring-disney---ultimate-ride-disney-coaster)
   - [Fun for Boys featuring Disney - Disney's Dinosaur Action Game](#fun-for-boys-featuring-disney---disneys-dinosaur-action-game)
